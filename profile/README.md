@@ -1,5 +1,5 @@
 <div class="content" align=center>
-<img src="https://imgur.com/Sk9dJRv.png" style="width: 75%">
+<img src="https://cdn.joehosten.me/negative-games/assets/black-logo.jpg" style="width: 75%">
 
 
  ## Who are we?  
