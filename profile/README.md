@@ -1,5 +1,5 @@
 <div class="content" align=center>
-<img src="https://imgur.com/Sk9dJRv.png" style="width: 60%">
+<img src="https://imgur.com/Sk9dJRv.png" style="width: 75%">
 
 
  ## Who are we?  
