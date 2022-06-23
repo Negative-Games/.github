@@ -13,5 +13,5 @@ Check our [Discord](https://discord.negative.games) for our prices.
 
 ## 🔗 Links 
 **Discord**: https://discord.negative.games  
-**Framework Wiki**: https://github.com/framework/wiki
+**Framework Wiki**: https://github.com/negative-games/framework/wiki
 </div>
